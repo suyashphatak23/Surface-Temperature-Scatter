@@ -10,7 +10,7 @@
 
 In this Project, I have created scatter(a graph with only points) of surface temperatures of 7 countries which include India, Russia, China, United States, Canada, Brazil & Australia. The dataset contains almost 1 lakh of data. I have used pandas to do manipulation of dataset and used matplotlib to plot the scatter of the data. The scatter of the data may be used in research projects or for data analysis. It clearly shows some patterns in the surface temperature.
 
-I have used IDLE Python for creating and executing the code. Please refer the code with the essential comments in the code.
+I have used IDLE Python for creating and executing the code. Please refer the <a href="https://github.com/suyashphatak23/Surface-Temperature-Scatter/blob/master/countries.py">code</a> with the essential comments in the code.
 
 # Output Scatter
 
